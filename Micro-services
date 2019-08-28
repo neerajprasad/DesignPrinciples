@@ -1,30 +1,30 @@
 Design principles.
 
-<h3>Micro services<h3> :
-<li>
+Micro services :
+
 1.small 
 2.Independent-able deployable
 3.StateLess
 4. Inter dependable
-</li>
+
 SOA - service oriented Architecture
 
 	This mean one module provide service to other module via communication.
 
 * SOA is based on some key principles which are mentioned below *
-<ol>
+
 1. Standardized Service Contract : Here service mean responsibility 
 2. Loosely Couple - less dependency on each other
 3. Service Abstraction : hide all the details
 4. Service Resueable : resue logic, code, method,service ,  util and all
 5. Service Autonomy - 
-</ol>
-<h3>Architecture Principles</h3> : <h4>Beside SOA , there are also many point one had to follow and need to adhere it. such as<h4>
-<ol>
+
+Architecture Principles : Beside SOA , there are also many point one had to follow and need to adhere it. such as,
+
 	1. Single Responsibility class : The thump rule to apply this principle is: "Gather those things which change for the same reason, Separate those things which change for the different reason"
 	2. LooseLy Couple
 	3. Seperation of concern
-</ol>
+
 Design Constraints :
 	1. Availability
 	2. Scalability
